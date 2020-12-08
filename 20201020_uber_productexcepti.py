@@ -14,7 +14,7 @@ def prod_except_i(List):
         Output.append(prod_without_i)
     return Output
 
-# using no divisoin
+# using no division
 def prod_except_i2(List):
     Output = []
     for i, j in enumerate(List):
